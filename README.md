@@ -5,9 +5,8 @@
 <p>Hi i am Vishal Verma, a Software developer .  I have more than 1 years of experience in designing and developing applications. I also have a solid foundation in backend development.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermavishal1999&label=Profile%20views&color=0e75b6&style=flat" alt="vermavishal1999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=vermavishal1999" alt="vermavishal1999" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vishallucknavi" target="blank"><img src="https://img.shields.io/twitter/follow/vishallucknavi?logo=twitter&style=for-the-badge" alt="vishallucknavi" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
